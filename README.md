@@ -5,3 +5,4 @@ Red Hat
 # Kali Linux
 * Nmap <br />
 * Basics
+* Bash Scripting
